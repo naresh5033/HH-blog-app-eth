@@ -37,3 +37,4 @@ The deployed addr are
 - Post.sol --> "0x51e477b8bBe84A1FBCD4A4222Fd6a80a3dA399C2"
 - BlogFactory.sol --> "0x9D8C6F44beBbCdd65DB2C12AA86C8Eb0123083b6"
 - The app is deployed in heroku and the url is --> https://blog-app-eth.herokuapp.com/
+- and the second deployment in the verce and the url is https://hh-blog-app.vercel.app/
